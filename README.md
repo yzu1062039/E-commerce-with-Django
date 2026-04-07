@@ -1,6 +1,6 @@
 # Django E-commerce Project
 
-A simple E-commerce website built with Django and deployed with AWS.
+A simple E-commerce website built with Django.
 
 Demo Link: <https://gjxstore.com/>
 
